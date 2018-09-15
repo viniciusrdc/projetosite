@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" href="icone.ico" sizes="16x16">
+	<meta charset="utf-8">
+	<title>Cadastramento</title>
+</head>
+<body>
+	<h1 align="center"><ins>Cadastre-se aqui</ins></h1>
+	<fieldset>
+		<legend><b>Informações Pessoais</b></legend>
+	<form>
+		<table>
+		<tr>
+			<td>
+				<b>Nome:</b>
+			</td>
+			<td>
+				<b>Sobrenome:</b>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input type="text" name="Nome" id="nome" maxlength="12" placeholder="Digite seu nome" checked autofocus>
+			</td>
+			<td>
+				<input type="text" name="Sobrenome" id="Sobrenome" maxlength="30" placeholder="Sobrenome" checked="">
+			</td>
+		</tr>
+		</table>
+	<b>Idade:<b><br>
+	<input type="number" name="idade" id="idade" minlength="2" size="2" max="99" placeholder="idade"><br><br>
+	<b>Sexo:<b><br>
+	<label for="M">M<input type="radio" name="sexo" id="M" value="Masculino" checked="checked">
+	<label for="F">F<input type="radio" name="sexo" id="F" value="Feminino" checked="checked"><br><br>
+	<b>Data de nascimento:</b><br>
+	<input type="date" name="data" id="data"><br><br>
+</fieldset>
+
+<fieldset>
+	<legend>Criar conta</legend>
+	<b>Nome de usuário:</b><br>
+	<input type="text" name="nick" id="nick" minlength="4" maxlength="30" size="32" placeholder="Escolha um nome de usuário para logar"><br><br>
+	<b>E-mail:<b><br>
+	<input type="email" name="E-mail" id="E-mail" placeholder="Incerir um E-mail valido"><br><br>
+	<b>Senha:<br></b>
+	<input type="password" name="Senha" id="senha" required placeholder="Digite uma senha"><br><br>
+</fieldset><br>
+	<input type="submit" value="Cadastrar"> <input type="reset" value="Resetar">
+</form>
+</body>
+</html>

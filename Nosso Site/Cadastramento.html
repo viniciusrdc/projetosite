@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" href="icones/icone.ico" sizes="16x16">
+	<link rel="stylesheet" type="text/css" href="siteCSS.css">
+	<meta charset="utf-8">
+	
+	<title>Cadastramento</title>
+	<style type="text/css">
+		body{
+			 font-family: sans-serif;
+		}
+		div {
+		animation-name: animation;
+		animation-duration: 1.5s;
+	}
+
+	</style>
+</head>
+<div id="animation">
+<body>
+	<article>
+	<h4 id="imagem">
+				<img src="Imagens/Menu.png" width="100%">
+				<a href="jpgames.html" id="link">  Início </a> | 
+				<a href="Login.html" id="link">  Login </a> | 
+				<a href="Ranking.html" id="link"> Ranking dos melhores jogos</a></h4>
+	<h1 align="center"><nav><p id="formatacao3"> Cadastre-se aqui</nav></p></h1>
+	<legend><b><p> Informações Pessoais</p></b></legend>
+	<form>
+		<table>
+		<tr>
+			<td>
+				<b><p id="texto">Nome:</p></b>
+			</td>
+			<td>
+				<b><p id="texto">Sobrenome:</p></b>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<input class="focus" type="text" name="Nome" id="nome" maxlength="12" placeholder="Digite seu nome" checked autofocus>
+			</td>
+			<td>
+				<input class="focus" type="text" name="Sobrenome" id="Sobrenome" maxlength="30" placeholder="Sobrenome" checked="">
+			</td>
+		</tr>
+		</table>
+	<b><p id="texto">Idade:</p><b><br>
+	<input type="number" name="idade" id="idade" minlength="2" size="2" max="99" placeholder="idade"><br><br>
+	<b><p id="texto">Sexo:</p><b><br>
+	<label for="M">M<input type="radio" name="sexo" id="M" value="Masculino" checked="checked">
+	<label for="F">F<input type="radio" name="sexo" id="F" value="Feminino" checked="checked"><br><br>
+	<b><p id="texto">Data de nascimento:</p></b><br>
+	<input type="date" name="data" id="data"><br><br>
+	<br><br><br>
+		
+
+		<legend><p>Criar conta</p></legend>
+	<br><br>
+	<b><p id="texto">Nome de usuário:</p></b><br>
+	<input type="text" name="nick" id="nick" minlength="4" maxlength="30" size="32" placeholder="Escolha um nome de usuário para logar"><br><br>
+	<b><p id="texto">E-mail:</p><b><br>
+	<input type="email" name="E-mail" id="E-mail" placeholder="Inserir um E-mail valido"><br><br>
+	<b><p id="texto">Senha:</p><br></b>
+	<input type="password" name="Senha" id="senha" required placeholder="Digite uma senha"><br><br>
+	<br>
+
+
+	<input class="button" type="submit" value="Cadastrar"> <input type="reset" class="button" value="Resetar">
+</form>
+	</div>
+	</article>
+	
+</body>
+</html>
