@@ -20,9 +20,9 @@ Relatório: Vinícius
 	-Para enviar atualizaçao
 *git push
 	-Para enviar o arquivo para o repositório
-* touch
+*touch
 	-Para criar um arquivo .txt para o relatório
-* touch
+*touch
 	-Para criar arquivo .html da nova página do site
 *git add .
 	-Para adicionar atualização do site
@@ -30,6 +30,14 @@ Relatório: Vinícius
 	-Para informar qual alteração que foi feita
 *git push 
 	-Para enviar atualização para o repositorio
+*git clone
+	-Para clonar o arquivo do repositório em meu computador
+*git add .
+	-Para adicionar novos arquivos
+*git commit -m
+	-Para informar alterações feitas
+*git push
+	-Para enviar arquivos ao repositório remoto 
 
 
 
