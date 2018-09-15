@@ -163,3 +163,8 @@ div {
  #table {
  	background-color: black
  }
+ body{
+			color:white;
+			font-weight: bold;
+			text-shadow: -15px 10px 45px white;
+		}
