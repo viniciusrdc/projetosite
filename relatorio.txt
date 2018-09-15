@@ -1,0 +1,29 @@
+Relatório: Vinícius
+
+*git config --global user.name 
+	-Configurei o usuario
+*git config --global user.email
+	-Configurei o email
+*ls
+	-Para ver os arquivos da pasta atual
+*mkdir
+	-Para criar a pasta do projeto
+*cd
+	-Para entrar na pasta criada
+*git init
+	-Para iniciar o repositório
+*git add
+	-Para adicionar  as pastas copiadas
+*git status
+	-Para ver se todos os arquivos foram adicionados a pasta
+*git commit -m
+	-Para enviar atualizaçao
+*git push
+	-Para enviar o arquivo para o repositório
+* touch
+	-Para criar um arquivo .txt para o relatório
+
+
+
+Relatório: João
+
