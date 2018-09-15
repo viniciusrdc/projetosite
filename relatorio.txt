@@ -22,6 +22,14 @@ Relatório: Vinícius
 	-Para enviar o arquivo para o repositório
 * touch
 	-Para criar um arquivo .txt para o relatório
+* touch
+	-Para criar arquivo .html da nova página do site
+*git add .
+	-Para adicionar atualização do site
+*git commit -m
+	-Para informar qual alteração que foi feita
+*git push 
+	-Para enviar atualização para o repositorio
 
 
 
