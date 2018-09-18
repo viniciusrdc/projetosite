@@ -1,3 +1,12 @@
+h4{
+	color:white;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: -15px 10px 45px blue;
+	text-align: center;
+	width: 100%;
+	margin: 5px 0px 5px 0px;
+}
 
 
 #formatacao1 	{
@@ -121,12 +130,36 @@ a:hover{
 	font-weight: bold;
 	text-shadow: -15px 10px 45px blue;
 	text-align: center;
-	background-color: black;
 	width: 100%;
 }
 fieldset{
 	background: hidden;
 }
+
+summary{
+	color:black;
+	font-size: 20px;
+	font-family: 'Hanuman',serif;
+	font-weight: bold;
+	text-shadow: -15px 10px 45px white;
+	text-align: center;
+	width: 100%;
+	margin: 5px 0px 5px 0px;
+
+}
+
+table{
+	color:rgb(63,252,252);
+	font-size: 20px;
+	font-family: 'Hanuman',serif;
+	font-weight: bold;
+	text-shadow: -15px 10px 45px blue;
+	text-align: center;
+	width: 100%;
+	margin: 5px 0px 5px 0px;
+}
+
+
 legend{
 	color:rgb(63,252,252);
 	font-weight: bold;
@@ -168,3 +201,10 @@ div {
 			font-weight: bold;
 			text-shadow: -15px 10px 45px white;
 		}
+
+p{
+	text-shadow: white;
+}
+label{
+	color: black;
+}
