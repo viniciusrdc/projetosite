@@ -38,6 +38,35 @@ Relatório: Vinícius
 	-Para informar alterações feitas
 *git push
 	-Para enviar arquivos ao repositório remoto 
+*git pull
+	-Para atualizar o diretório
+*git rm
+	-Para excluir "Teste de tranformação"
+*git touch
+	-Para criar novo arquivo .css
+*git add .
+	-Para adicionar alterações feitas
+*git commit -m 
+	-Para validar as mudanças feitas
+*git push 
+	-Para enviar mudanças ao repositório
+*git revert
+	-Para reverter as mudanças feitas no ultimo commit
+*git pull
+	-Para atualizar o diretório
+*git rm 
+	-Para apagar novamente Teste de transformação
+*git add .
+	-Para adicionar alterações feitas
+*git commit -m 
+	-Para validar as mudanças feitas
+*git push 
+	-Para enviar mudanças ao repositório
+
+
+
+
+
 
 
 
