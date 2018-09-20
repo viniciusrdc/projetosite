@@ -62,6 +62,22 @@ Relatório: Vinícius
 	-Para validar as mudanças feitas
 *git push 
 	-Para enviar mudanças ao repositório
+*git congif
+	-Para configurar o usuario do git
+*git mkdir
+	-Para criar diretorio novo
+*git init
+	-Para iniciar o diretorio
+*git clone
+	-Para clonar os arquivos do repositorio do git hub
+*git rm
+	-Para apagar imagens dos arquivos
+*git add .
+	-Para adicionar todas as mudanças a fila
+*git commit -m
+	-Para commitar alterações
+*git push
+	-Para enviar alteraçoes ao hub
 
 
 

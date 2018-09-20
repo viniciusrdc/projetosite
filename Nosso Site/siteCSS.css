@@ -99,7 +99,7 @@ input:focus
 		}
 body{
 	opacity: 1;
-	background-image:url("inicio.png");
+	background-image:url("Imagens/mario.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
