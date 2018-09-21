@@ -1,3 +1,4 @@
+
 Relatório: Vinícius
 
 *git config --global user.name 
@@ -87,4 +88,29 @@ Relatório: Vinícius
 
 
 Relatório: João
+*git config:
+configurar usuario e email.
+
+*mkdir:
+criar diretório.
+
+*git init:
+iniciar repositório.
+
+*cd :
+entrar na pasta.
+
+*git clone:
+clonar repostório .git
+
+*git add .
+atualizações do projeto
+
+*git commit -m:
+validar mudanças.
+
+*git push:
+enviar arquivo atualizado para o repositório.
+
+
 
